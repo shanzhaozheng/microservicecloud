@@ -14,6 +14,7 @@
         <module name="microservicecloudeureka7001" />
         <module name="microservicecloudproviderdept8003" />
         <module name="microservicecloudapi" />
+        <module name="microservicecloudconsumerdeptfeign" />
         <module name="microservicecloudconsumerdept80" />
       </profile>
     </annotationProcessing>
